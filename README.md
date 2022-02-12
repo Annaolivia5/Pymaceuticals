@@ -28,3 +28,9 @@ Scatter plot of tumor volume versus mouse weight for the Capomulin treatment reg
 ![Tumor Volume vs. Mouse Weight](images/tumor-vol-vs-mouse-weight.png "Tumor Volume vs. Mouse Weight")<br>
 
 # Observations and Inferences
+Observations:
+1. There is a positive correlation between mouse weight and average tumor volume. As mouse weight increases, so does the mean tumor volume. 
+
+2. Capomulin has the second smallest standard deviation, mean, and median of tumor volume out of all the drugs, with Ramicane having the smallest in all these categories. 
+
+2. Capomulin has the smallest interquartile range out of these 4 drugs: Capomulin, Ramicane, Infubinol, and Ceftamin.
